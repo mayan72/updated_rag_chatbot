@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+pandas
+openpyxl
+
+chromadb
+sentence-transformers
+torch
+
+google-genai
+
+python-dotenv
+pydantic
+pydantic-settings
