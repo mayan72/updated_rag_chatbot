@@ -1,13 +1,1 @@
-GOOGLE_API_KEY=AIzaSyB28vcLKnqmuRxcEXVkIB3OPRMiQCp5xWc
-LLM_MODEL=gemini-2.5-flash
 
-EMBEDDING_MODEL=BAAI/bge-small-en-v1.5
-
-CHROMA_PATH=./data/chroma
-
-STRUCTURED_DB=./storage/structured.db
-
-TOP_K=5
-CHUNK_SIZE=700
-CHUNK_OVERLAP=100
-~
